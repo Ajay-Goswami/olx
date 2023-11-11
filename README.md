@@ -1,6 +1,4 @@
-# olx-clone-mern
-
-<h1>OLX-Clone</h1>
+# OLX-Clone MERN
 
 <h5>Here is the OLX clone that I build with MERN Stack</h5>
 
